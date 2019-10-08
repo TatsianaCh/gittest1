@@ -1,3 +1,9 @@
 body {
     background-color: lightcoral;
   }
+  p {
+    color: white
+  }
+  h2 {
+    font-size: 18px
+  }
